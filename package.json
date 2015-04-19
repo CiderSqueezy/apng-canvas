@@ -11,6 +11,7 @@
   ],
   "homepage": "https://github.com/davidmz/apng-canvas",
   "license": "MIT",
+  "main": "src/main.js",
   "dependencies": {
     "es6-promise": "latest"
   },
